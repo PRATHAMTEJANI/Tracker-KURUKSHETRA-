@@ -1,0 +1,30 @@
+body {
+  background: #0f1220;
+  color: white;
+  font-family: Arial;
+  padding: 20px;
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+.card {
+  background: #1a1d35;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+pre {
+  max-height: 300px;
+  overflow-y: auto;
+  background: black;
+  padding: 10px;
+  font-size: 12px;
+}

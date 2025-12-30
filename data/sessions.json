@@ -1,0 +1,65 @@
+[
+  {
+    "timestamp": "2025-12-30 21:03",
+    "focus_state": "Focused Work",
+    "focus_score": 100,
+    "mouse_moves": 30328,
+    "key_presses": 305,
+    "idle_seconds": 0,
+    "app_usage_seconds": {
+      "Code.exe": 89,
+      "chrome.exe": 176,
+      "explorer.exe": 22,
+      "WhatsApp.Root.exe": 13
+    }
+  },
+  {
+    "timestamp": "2025-12-30 21:12:57",
+    "focus_state": "Focused Work",
+    "focus_score": 100,
+    "mouse_moves": 7424,
+    "key_presses": 12,
+    "idle_seconds": 0,
+    "app_usage_seconds": {
+      "Code.exe": 52,
+      "chrome.exe": 8
+    }
+  },
+  {
+    "timestamp": "2025-12-30 21:13:57",
+    "focus_state": "Focused Work",
+    "focus_score": 100,
+    "mouse_moves": 6022,
+    "key_presses": 29,
+    "idle_seconds": 0,
+    "app_usage_seconds": {
+      "Code.exe": 51,
+      "ShellHost.exe": 1,
+      "explorer.exe": 1,
+      "chrome.exe": 7
+    }
+  },
+  {
+    "timestamp": "2025-12-30 21:22:28",
+    "focus_state": "Focused Work",
+    "focus_score": 80,
+    "mouse_moves": 6800,
+    "key_presses": 0,
+    "idle_seconds": 2,
+    "app_usage_seconds": {
+      "Code.exe": 60
+    }
+  },
+  {
+    "timestamp": "2025-12-30 21:23:29",
+    "focus_state": "Focused Work",
+    "focus_score": 80,
+    "mouse_moves": 35,
+    "key_presses": 0,
+    "idle_seconds": 50,
+    "app_usage_seconds": {
+      "Code.exe": 7,
+      "explorer.exe": 53
+    }
+  }
+]

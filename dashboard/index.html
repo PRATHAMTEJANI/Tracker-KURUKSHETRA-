@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Cognitive Drift Dashboard</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h2>🧠 Cognitive Drift Dashboard</h2>
+
+<div class="grid">
+  <div class="card">
+    <h3>Focus Score Timeline</h3>
+    <canvas id="focusChart"></canvas>
+  </div>
+
+  <div class="card">
+    <h3>App Usage (Last Session)</h3>
+    <canvas id="appChart"></canvas>
+  </div>
+</div>
+
+<div class="card">
+  <h3>📄 Raw Session Data (JSON)</h3>
+  <pre id="jsonView"></pre>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="renderer.js"></script>
+</body>
+</html>
